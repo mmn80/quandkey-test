@@ -1,0 +1,8 @@
+[package]
+name = "mckendree"
+version = "0.1.0"
+authors = ["Călin Ardelean <mmn80cpu@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+mckendree-lib = { path = "../mckendree-lib" }

@@ -1,0 +1,6 @@
+[workspace]
+
+members = [
+    "mckendree",
+    "mckendree-lib",
+]
